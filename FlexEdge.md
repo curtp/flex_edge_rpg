@@ -89,6 +89,7 @@ on their difficulty:
 
 Opponents may also have enhanced gear adding additional Edge Dice.
 
+
 ## LICENSE/ACKNOWLEDGEMENTS
 Based on [FlexD6](https://squidhead-games.itch.io/flexd6) by [Squidhead Games](https://squidhead-games.itch.io)
 
