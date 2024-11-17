@@ -4,7 +4,7 @@ This is a very flexible rules-lite role playing game which uses a d6 dice pool a
 While simple, it is easy to bend to many genres and settings.
 
 This bare bones system provides enough for an experienced GM to run a game. It provides a 
-strong foundagion for making rulings instead of providing rules for every possible scenario.
+strong foundation for making rulings instead of providing rules for every possible scenario.
 
 Bring your setting, a pile of d6 and your imagination.
 
