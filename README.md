@@ -15,5 +15,5 @@ This is a CC BY SA 4.0 license so you can fork this and modify it to suit your n
 
 ## Collaboration
 If you have ideas for improvement, there are a couple of options for you.
-1. Log an submit an enhancement through the issue tracker
+1. Submit an enhancement through the issue tracker
 2. Create a pull request and make the suggested change
