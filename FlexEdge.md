@@ -41,8 +41,7 @@ test:
    - Normal: 2d6
    - Advantage: 3d6
 
-2. Add Edge Dice to the pool if the character is skilled:
-   - Add Edge Dice equal to their skill score
+2. Add Edge Dice to the pool if the character has an applicable skill:
    - Example: Swords 2 adds 2d6 Edge Dice
 
 3. Roll all dice together. Success occurs when:
@@ -76,8 +75,8 @@ rolling 3+ successes (each 5+ on Check Dice and each 6 on Edge Dice counts as a
 success).
 
 ### OPPONENTS
-Opponents follow the same rules as characters but with health and Edge Dice based 
-on their difficulty:
+Opponents follow the same rules as characters but with health based on their 
+difficulty and Edge Dice based on their skill level:
 
 | Difficulty  | Easy      | Moderate  | Hard        | Very Hard |
 |-------------|-----------|-----------|-------------|-----------|
@@ -87,8 +86,10 @@ on their difficulty:
 |-------------|-----------|-----------|-------------|-----------|
 | Edge Dice   | 0         | 1         | 2           | 3         |
 
-Opponents may also have enhanced gear adding additional Edge Dice.
+Opponents may also have enhanced gear adding additional Edge Dice. To make them
+even more challenging, give them armor and a shield.
 
+To scale opponents based on party size, consider adding 1 or 2 health for each PC.
 
 ## LICENSE/ACKNOWLEDGEMENTS
 Based on [FlexD6](https://squidhead-games.itch.io/flexd6) by [Squidhead Games](https://squidhead-games.itch.io)
