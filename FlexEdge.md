@@ -2,7 +2,9 @@
 A rules-lite role playing game by Squidhead Games.
 
 ## CHARACTER CREATION
-1. Pick a name and list 4 things the character is skilled at.  
+1. Pick a name, role, and species for the character.  
+   **Examples**: Name: Thrack, Role: Fighter, Species: Dwarf
+2. List 4 things the character is skilled at.  
    **Examples**: Swords, Bows, Magic, Sneaking, Intimidation,
    Engineering, Healing, Diplomacy, Riding, Piloting, Shooting,
    Hacking, Fixing Things, Navigation.
@@ -16,6 +18,26 @@ A rules-lite role playing game by Squidhead Games.
    **Examples**: Sword, Dice, Good Luck Charm, Knife
 
 6. Set the character's health to 5.
+
+### SAMPLE CHARACTER
+
+- **Name:** Elaran
+- **Role**: Ranger
+- **Species**: Elf
+- **Health**: 5
+- **Skills**:
+  - Archery: 2
+  - Survival: 1
+  - Stealth: 1
+  - Tracking: 1
+- **Equipment**:
+  - Longbow
+  - Quiver of Arrows
+  - Hunting Knife
+  - Cloak of Elvenkind (+1 Edge Die when Hiding/Sneaking)
+
+**Character Description**:
+Elaran is an Elf Ranger known for their exceptional skills in archery and survival. They are adept at moving silently through the forest, tracking prey and enemies alike, and living off the land. Elaran carries a finely crafted longbow and a quiver of arrows, always ready to defend their homeland or hunt for food. Their Hunting Knife is useful for close combat and practical tasks, while their Cloak of Elvenkind helps them blend into their surroundings, providing an additional edge die for stealth-related tasks.
 
 ### ADVANCEMENT
 Add 1 to an existing skill (maximum of 3) or pick a new skill which 
