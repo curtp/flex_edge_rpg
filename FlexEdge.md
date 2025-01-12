@@ -58,15 +58,18 @@ size/color (Edge Dice).
 When a character attempts something risky or uncertain, the GM calls for a 
 test:
 
-1. Add Check Dice to the pool based on the situation:
+1. Add a max of 3 Check Dice to the pool based on the situation:
    - Disadvantage: 1d6
    - Normal: 2d6
    - Advantage: 3d6
 
-2. Add Edge Dice to the pool if the character has an applicable skill:
+2. Add a max of 3 Edge Dice to the pool if the character has an applicable skill:
    - Example: Swords 2 adds 2d6 Edge Dice
 
-3. Roll all dice together. Success occurs when:
+3. Add a max of 3 Edge Dice to the pool if the character has applicable gear:
+   - Example: An Advanced sword adds 2d6 Edge Dice
+
+4. Roll all dice together. Success occurs when:
    - Any Check Die shows 5+, or
    - Any Edge Die shows 6
 
